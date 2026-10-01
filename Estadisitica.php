@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Este es el apartado de estadisticas</h1>
-    <h2></h2>
+    <h2>Este es el primer cambio de este proyecto</h2>
 </body>
 </html>
